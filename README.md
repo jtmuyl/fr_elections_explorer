@@ -6,4 +6,4 @@ A suite of quick and dirty tools to explore various french elections results.
 To get started, start by running these commands to create necessary folders and download the raw data. 
 * `make init`
 * `make download-data`
-* `make explode
+* `preprocess-raw-files` will create easier to handle versions of the data. 
